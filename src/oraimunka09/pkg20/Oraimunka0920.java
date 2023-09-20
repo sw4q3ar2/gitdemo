@@ -11,6 +11,10 @@ public class Oraimunka0920 {
         if (true) {
             
         }
+        metodus();
     }
     
+    private static void metodus(){
+        
+    }
 }
